@@ -1,7 +1,19 @@
 Updated: 16.11.22
 
+Standard Cross
+0;P;h;0;f;0;0l;4;0o;0;0a;1;0f;0;1b;0
+
 Moving White Crosshair (11/10)
 0;P;h;0;0v;4;0g;1;0o;0;0e;0.1;1b;0
+
+White Little Cross (Dep)
+0;s;1;P;o;0.1;f;0;s;0;0t;1;0l;2;0o;1;0a;1;0f;0;1b;0
+
+Yellow Crosshair (Shroud)
+0;P;c;4;h;0;f;0;0l;5;0o;0;0a;1;0f;0;1b;0
+
+TenZ
+0;s;1;P;c;5;h;0;m;1;0l;4;0o;2;0a;1;0f;0;1b;0;S;c;4;o;1
 
 White Dot
 0;P;o;1;d;1;0l;1;0o;1;0a;1;0f;0;1b;0
