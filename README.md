@@ -9,17 +9,35 @@ A little collection of Valorant crosshairs.
 4. [Square](https://github.com/hAxiiT/Valorant_Crosshairs/tree/main#squares)
 
 # Cross
-### Standard Cross
+## Plus Standard - 1
 
 ```0;P;h;0;f;0;0l;4;0o;0;0a;1;0f;0;1b;0```
 
 ![Standard Cross](https://user-images.githubusercontent.com/63851714/226617686-67a54863-09b1-432e-9e67-57b3824b6116.png)
 
-## Moving Crosshair v1
+## Plus Standard - 2
+
+```0;P;h;0;f;0;0l;4;0o;0;0a;1;0f;0;1t;0;1l;0;1a;0.339```
+
+![Plus Standard Cross](https://user-images.githubusercontent.com/63851714/226614524-7e64a16f-a762-4bcc-9f63-4b91b92d072b.png)
+
+## Moving Cross - 1
 
 ```0;P;h;0;0v;4;0g;1;0o;0;0e;0.1;1b;0```
 
 ![Moving White Cross](https://user-images.githubusercontent.com/63851714/226617709-0bc804b9-8b02-4fe4-992b-10d2adf988ea.png)
+
+## Moving Cross - 2
+
+```0;P;o;1;f;0;m;1;0t;1;0l;4;0v;3;0g;1;0o;2;0a;1;0m;1;0s;0.13;0e;0.4;1b;0```
+
+![Moving Cross](https://user-images.githubusercontent.com/63851714/226614501-4bfbc8c3-6317-4bcd-92d4-269cb5035af1.png)
+
+## Wide Cross
+
+```0;P;o;1;f;0;0t;1;0v;4;0g;1;0o;0;0a;1;0f;0;1b;0```
+
+![Wide Crosshair](https://user-images.githubusercontent.com/63851714/226614457-c0b0d9fd-ce74-4d57-aa08-00a56d22025a.png)
 
 ## Dep, Little Cross
 
@@ -32,6 +50,18 @@ A little collection of Valorant crosshairs.
 ```0;s;1;P;c;5;h;0;m;1;0l;4;0o;2;0a;1;0f;0;1b;0;S;c;4;o;1```
 
 ![TenZ](https://user-images.githubusercontent.com/63851714/226617768-d24fa7b6-1197-4414-a2b3-21b4ed9632ad.png)
+
+## Asuna, Big Gap
+
+```0;P;o;1;f;0;0t;1;0l;2;0v;2;0a;1;0f;0;1t;0;1l;0;1a;1```
+
+![Asuna Big Gap](https://user-images.githubusercontent.com/63851714/226614477-64240a2f-bd04-478b-a816-13f8262f7451.png)
+
+## **Classic Big Green**
+
+```0;p;0;P;c;1;o;1;f;0;0o;4;0a;1;0f;0;1t;0;1l;0;1o;0;1a;0;1m;0;1f;0```
+
+![Classic Big Green](https://user-images.githubusercontent.com/63851714/226614219-c9ab4269-2e0a-4d04-b4d1-89705bcfb480.jpg)
 
 ## Big Green
 
@@ -51,7 +81,19 @@ A little collection of Valorant crosshairs.
 
 ![Giato](https://user-images.githubusercontent.com/63851714/226618001-919c2f3a-0594-4cd0-9e44-309bfd753b6f.png)
 
+### Mini Red
+
+```0;p;0;P;c;7;h;0;f;0;0l;2;0o;1;0a;1;0f;0;1t;0;1l;0;1o;0;1a;0;1m;0;1f;0```
+
+![Mini Red](https://user-images.githubusercontent.com/63851714/226614540-e88916e9-f61b-4185-ab75-21673b9ef764.png)
+
 # Dots
+## Mini Dot
+
+```0;P;o;1;d;1;z;1;f;0;0t;1;0l;1;0o;0;0a;1;0f;0;1b;0```
+
+![Mini Dot](https://user-images.githubusercontent.com/63851714/226614433-22e3c1c3-9d6e-4c1c-92f1-47a96386ce22.png)
+
 ## White Dot
 
 ```0;P;o;1;d;1;0l;1;0o;1;0a;1;0f;0;1b;0```
