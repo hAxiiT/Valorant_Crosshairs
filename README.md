@@ -94,13 +94,13 @@ A little collection of Valorant crosshairs.
 
 ![Mini Dot](https://user-images.githubusercontent.com/63851714/226614433-22e3c1c3-9d6e-4c1c-92f1-47a96386ce22.png)
 
-## White
+## White, normal Dot with Outline
 
 ```0;P;o;1;d;1;0l;1;0o;1;0a;1;0f;0;1b;0```
 
 ![White Dot](https://user-images.githubusercontent.com/63851714/226617787-32f20384-5333-4cf2-a1a9-8d3a93616098.png)
 
-## Green Dot
+## Green, normal Dot
 
 ```0;P;c;1;h;0;d;1;0t;4;0l;1;0o;0;0a;1;0f;0;1b;0```
 
