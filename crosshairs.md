@@ -55,6 +55,7 @@
 
 <img src="https://user-images.githubusercontent.com/63851714/226611913-2659db79-19f8-408f-b2ae-183a047890d0.png" align=left>
 
+
 **Mini Dot**
 
 ```0;P;o;1;d;1;z;1;f;0;0t;1;0l;1;0o;0;0a;1;0f;0;1b;0```
