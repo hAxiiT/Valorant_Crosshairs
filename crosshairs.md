@@ -55,7 +55,7 @@
 
 <img src="[/path/to/img.jpg](https://user-images.githubusercontent.com/63851714/226611913-2659db79-19f8-408f-b2ae-183a047890d0.png)" align=left>
 
-![Classic Big Green](https://user-images.githubusercontent.com/63851714/226611913-2659db79-19f8-408f-b2ae-183a047890d0.png)
+<img src="![Classic Big Green](https://user-images.githubusercontent.com/63851714/226611913-2659db79-19f8-408f-b2ae-183a047890d0.png)" align=left>
 
 **Mini Dot**
 
