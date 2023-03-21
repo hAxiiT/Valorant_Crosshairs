@@ -4,7 +4,8 @@ A little collection of Valorant crosshairs.
 
 ## Updated: 21.03.2023
 
-1. [Cross](https://github.com/hAxiiT/Valorant_Crosshairs/tree/main#cross)
+1. [Cross](https://github.com/hAxiiT/Valorant_Crosshairs/blob/main/README.md#cross)
+2. [Circle](https://github.com/hAxiiT/Valorant_Crosshairs/blob/main/README.md#circle)
 
 ## Cross
 ### Standard Cross
