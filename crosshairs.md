@@ -59,22 +59,34 @@
 
 ```0;P;o;1;d;1;z;1;f;0;0t;1;0l;1;0o;0;0a;1;0f;0;1b;0```
 
+![Mini Dot](https://user-images.githubusercontent.com/63851714/226614433-22e3c1c3-9d6e-4c1c-92f1-47a96386ce22.png)
+
 **Wide Crosshair**
 
 ```0;P;o;1;f;0;0t;1;0v;4;0g;1;0o;0;0a;1;0f;0;1b;0```
+
+![Wide Crosshair](https://user-images.githubusercontent.com/63851714/226614457-c0b0d9fd-ce74-4d57-aa08-00a56d22025a.png)
 
 **Asuna, Big Gap**
 
 ```0;P;o;1;f;0;0t;1;0l;2;0v;2;0a;1;0f;0;1t;0;1l;0;1a;1```
 
+![Asuna Big Gap](https://user-images.githubusercontent.com/63851714/226614477-64240a2f-bd04-478b-a816-13f8262f7451.png)
+
 **Moving Cross**
 
 ```0;P;o;1;f;0;m;1;0t;1;0l;4;0v;3;0g;1;0o;2;0a;1;0m;1;0s;0.13;0e;0.4;1b;0```
+
+![Moving Cross](https://user-images.githubusercontent.com/63851714/226614501-4bfbc8c3-6317-4bcd-92d4-269cb5035af1.png)
 
 **Plus (Standard) Cross**
 
 ```0;P;h;0;f;0;0l;4;0o;0;0a;1;0f;0;1t;0;1l;0;1a;0.339```
 
+![Plus Standard Cross](https://user-images.githubusercontent.com/63851714/226614524-7e64a16f-a762-4bcc-9f63-4b91b92d072b.png)
+
 **Mini Red Dot**
 
 ```0;p;0;P;c;7;h;0;f;0;0l;2;0o;1;0a;1;0f;0;1t;0;1l;0;1o;0;1a;0;1m;0;1f;0```
+
+![Mini Red](https://user-images.githubusercontent.com/63851714/226614540-e88916e9-f61b-4185-ab75-21673b9ef764.png)
