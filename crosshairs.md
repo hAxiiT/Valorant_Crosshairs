@@ -53,6 +53,8 @@
 
 ```0;p;0;P;c;1;o;1;f;0;0o;4;0a;1;0f;0;1t;0;1l;0;1o;0;1a;0;1m;0;1f;0```
 
+<img src="[/path/to/img.jpg](https://user-images.githubusercontent.com/63851714/226611913-2659db79-19f8-408f-b2ae-183a047890d0.png)" align=left>
+
 ![Classic Big Green](https://user-images.githubusercontent.com/63851714/226611913-2659db79-19f8-408f-b2ae-183a047890d0.png)
 
 **Mini Dot**
