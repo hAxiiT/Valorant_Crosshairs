@@ -1,9 +1,8 @@
-# Valorant_Crosshairs
+# VALORANT Crosshairs
 
 A little collection of Valorant crosshairs.
 
-
-# Updated: 21.03.2023
+## Updated: 21.03.2023
 
 ## Cross
 ### Standard Cross
