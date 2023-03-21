@@ -51,7 +51,7 @@
 # Test
 **Classic Big Green**
 
-![Classic Big Green](https://user-images.githubusercontent.com/63851714/226614219-c9ab4269-2e0a-4d04-b4d1-89705bcfb480.jpg) align=left
+![Classic Big Green](https://user-images.githubusercontent.com/63851714/226614219-c9ab4269-2e0a-4d04-b4d1-89705bcfb480.jpg)
 
 ```0;p;0;P;c;1;o;1;f;0;0o;4;0a;1;0f;0;1t;0;1l;0;1o;0;1a;0;1m;0;1f;0```
 
