@@ -3,13 +3,12 @@
 A little collection of Valorant crosshairs.
 
 ## Updated: 21.03.2023
+1. [Cross](https://github.com/hAxiiT/Valorant_Crosshairs/tree/main#cross)
+2. [Dots](https://github.com/hAxiiT/Valorant_Crosshairs/tree/main#dots)
+3. [Circle](https://github.com/hAxiiT/Valorant_Crosshairs/tree/main#circles)
+4. [Square](https://github.com/hAxiiT/Valorant_Crosshairs/tree/main#squares)
 
-1. [Cross](https://github.com/hAxiiT/Valorant_Crosshairs/blob/main/README.md#cross)
-2. [Dots](https://github.com/hAxiiT/Valorant_Crosshairs/blob/main/README.md#dot)
-3. [Circle](https://github.com/hAxiiT/Valorant_Crosshairs/blob/main/README.md#circle)
-4. [Square](https://github.com/hAxiiT/Valorant_Crosshairs/blob/main/README.md#square)
-
-## Cross
+# Cross
 ### Standard Cross
 
 ```0;P;h;0;f;0;0l;4;0o;0;0a;1;0f;0;1b;0```
@@ -52,7 +51,7 @@ A little collection of Valorant crosshairs.
 
 ![Giato](https://user-images.githubusercontent.com/63851714/226618001-919c2f3a-0594-4cd0-9e44-309bfd753b6f.png)
 
-## Dot
+# Dots
 ## White Dot
 
 ```0;P;o;1;d;1;0l;1;0o;1;0a;1;0f;0;1b;0```
@@ -65,7 +64,7 @@ A little collection of Valorant crosshairs.
 
 ![Green Dot](https://user-images.githubusercontent.com/63851714/226617800-313d0ab7-ceb5-467a-b467-1935e17f4fac.png)
 
-## Circle
+# Circles
 ## Mini Circle
 
 ```0;P;c;8;o;0.1;b;1;0t;4;0l;1;0v;1;0o;2;0a;1;0f;0;1b;0```
@@ -78,7 +77,7 @@ A little collection of Valorant crosshairs.
 
 ![Green Circle](https://user-images.githubusercontent.com/63851714/226617988-3c541000-ad38-429d-8a61-d33494bbddad.png)
 
-## Square
+# Squares
 ## Green Square, Big ADS
 
 ```0;p;0;s;1;P;c;1;u;00A1FFFF;h;0;0t;10;0l;1;0o;4;0a;1;0f;0;1t;10;1l;1;1o;5;1a;1;1m;0;1f;0;A;c;5;o;1;d;1;z;1;0t;1;0l;20;0o;8;0a;1;1t;9;1l;9;1o;31;1a;0.279;1s;0.46```
