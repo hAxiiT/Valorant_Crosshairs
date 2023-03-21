@@ -1,17 +1,5 @@
 # Updated: 21.03.2023
 
-## Standard Cross
-
-```0;P;h;0;f;0;0l;4;0o;0;0a;1;0f;0;1b;0```
-
-![Standard Cross](https://user-images.githubusercontent.com/63851714/226617686-67a54863-09b1-432e-9e67-57b3824b6116.png)
-
-## Moving Crosshair v1
-
-```0;P;h;0;0v;4;0g;1;0o;0;0e;0.1;1b;0```
-
-![Moving White Cross](https://user-images.githubusercontent.com/63851714/226617709-0bc804b9-8b02-4fe4-992b-10d2adf988ea.png)
-
 ## Dep, Little Cross
 
 ```0;s;1;P;o;0.1;f;0;s;0;0t;1;0l;2;0o;1;0a;1;0f;0;1b;0```
@@ -116,6 +104,14 @@
 ![Mini Red](https://user-images.githubusercontent.com/63851714/226614540-e88916e9-f61b-4185-ab75-21673b9ef764.png)
 
 ## Cross
-### Test
+### Standard Cross
 
-![Asuna Big Gap](https://user-images.githubusercontent.com/63851714/226614477-64240a2f-bd04-478b-a816-13f8262f7451.png)
+```0;P;h;0;f;0;0l;4;0o;0;0a;1;0f;0;1b;0```
+
+![Standard Cross](https://user-images.githubusercontent.com/63851714/226617686-67a54863-09b1-432e-9e67-57b3824b6116.png)
+
+### Moving Crosshair v1
+
+```0;P;h;0;0v;4;0g;1;0o;0;0e;0.1;1b;0```
+
+![Moving White Cross](https://user-images.githubusercontent.com/63851714/226617709-0bc804b9-8b02-4fe4-992b-10d2adf988ea.png)
