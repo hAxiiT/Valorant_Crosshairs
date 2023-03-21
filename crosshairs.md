@@ -114,3 +114,8 @@
 ```0;p;0;P;c;7;h;0;f;0;0l;2;0o;1;0a;1;0f;0;1t;0;1l;0;1o;0;1a;0;1m;0;1f;0```
 
 ![Mini Red](https://user-images.githubusercontent.com/63851714/226614540-e88916e9-f61b-4185-ab75-21673b9ef764.png)
+
+## Cross
+### Test
+
+![Asuna Big Gap](https://user-images.githubusercontent.com/63851714/226614477-64240a2f-bd04-478b-a816-13f8262f7451.png)
