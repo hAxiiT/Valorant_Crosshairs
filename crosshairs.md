@@ -49,12 +49,11 @@
 ```0;s;1;P;c;8;u;500000FF;h;0;b;1;f;0;m;1;0l;3;0v;3;0o;0;0a;0.471;0f;0;1l;1;1o;1;1a;1;1m;0;1f;0;S;b;1;c;8;t;000000FF;s;0.7```
 
 # Test
-**Classic Big Green**
+# **Classic Big Green**
 
 ```0;p;0;P;c;1;o;1;f;0;0o;4;0a;1;0f;0;1t;0;1l;0;1o;0;1a;0;1m;0;1f;0```
 
 ![Classic Big Green](https://user-images.githubusercontent.com/63851714/226614219-c9ab4269-2e0a-4d04-b4d1-89705bcfb480.jpg)
-<hr style="border-width:0.5px;">
 
 **Mini Dot**
 
