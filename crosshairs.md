@@ -1,7 +1,7 @@
 # Updated: 21.03.2023
 
 **Standard Cross**
-0;P;h;0;f;0;0l;4;0o;0;0a;1;0f;0;1b;0
+```0;P;h;0;f;0;0l;4;0o;0;0a;1;0f;0;1b;0```
 
 **Moving White Crosshair (11/10)**
 0;P;h;0;0v;4;0g;1;0o;0;0e;0.1;1b;0
