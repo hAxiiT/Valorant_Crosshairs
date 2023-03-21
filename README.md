@@ -7,6 +7,7 @@ A little collection of Valorant crosshairs.
 1. [Cross](https://github.com/hAxiiT/Valorant_Crosshairs/blob/main/README.md#cross)
 2. [Dots](https://github.com/hAxiiT/Valorant_Crosshairs/blob/main/README.md#dot)
 3. [Circle](https://github.com/hAxiiT/Valorant_Crosshairs/blob/main/README.md#circle)
+4. [Square](https://github.com/hAxiiT/Valorant_Crosshairs/blob/main/README.md#square)
 
 ## Cross
 ### Standard Cross
