@@ -113,6 +113,12 @@ A little collection of Valorant crosshairs.
 
 ![Mini Circle](https://user-images.githubusercontent.com/63851714/226617928-585dd8d3-04ff-443a-b463-d202d2255852.png)
 
+## Normal Circle
+
+```0;P;h;0;0t;5;0l;1;0o;2;0a;1;0f;0;1b;0```
+
+![Normal Circle](https://user-images.githubusercontent.com/63851714/227364734-12e821c6-dce9-447c-be2f-6a6c413a2eb5.png)
+
 ## Green Circle
 
 ```0;p;0;s;1;P;c;1;u;00A1FFFF;h;0;0t;5;0l;1;0o;2;0a;1;0f;0;1b;0;A;c;5;o;1;d;1;z;1;0t;1;0l;20;0o;8;0a;1;1t;9;1l;9;1o;31;1a;0.279;1s;0.46```
