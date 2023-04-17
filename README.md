@@ -49,8 +49,6 @@ A little collection of Valorant crosshairs.
 
 ```0;s;1;P;c;5;h;0;m;1;0l;4;0o;2;0a;1;0f;0;1b;0;S;c;4;o;1```
 
-```0;s;1;P;c;5;h;0;0l;4;0o;2;0a;1;0f;0;1b;0;S;c;5```
-
 ![TenZ](https://user-images.githubusercontent.com/63851714/226617768-d24fa7b6-1197-4414-a2b3-21b4ed9632ad.png)
 
 ## Asuna
@@ -88,6 +86,12 @@ A little collection of Valorant crosshairs.
 ```0;p;0;P;c;7;h;0;f;0;0l;2;0o;1;0a;1;0f;0;1t;0;1l;0;1o;0;1a;0;1m;0;1f;0```
 
 ![Mini Red](https://user-images.githubusercontent.com/63851714/226614540-e88916e9-f61b-4185-ab75-21673b9ef764.png)
+
+### Arrows
+
+```0;s;1;P;c;5;h;0;m;1;0l;4;0o;2;0a;1;0f;0;1b;0;S;c;4;o;1```
+
+![Arrows](https://user-images.githubusercontent.com/63851714/232525727-33444776-1ec2-44f8-a302-975484b13eb9.png)
 
 # Dots
 ## Mini Dot
