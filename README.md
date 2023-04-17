@@ -15,13 +15,13 @@ A little collection of Valorant crosshairs.
 
 ![Standard Cross](https://user-images.githubusercontent.com/63851714/226617686-67a54863-09b1-432e-9e67-57b3824b6116.png)
 
-## Moving - 1
+## Moving, Thick - 1
 
 ```0;P;h;0;0v;4;0g;1;0o;0;0e;0.1;1b;0```
 
 ![Moving White Cross](https://user-images.githubusercontent.com/63851714/226617709-0bc804b9-8b02-4fe4-992b-10d2adf988ea.png)
 
-## Moving - 2
+## Moving, Thin - 2
 
 ```0;P;o;1;f;0;m;1;0t;1;0l;4;0v;3;0g;1;0o;2;0a;1;0m;1;0s;0.13;0e;0.4;1b;0```
 
