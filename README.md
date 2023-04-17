@@ -15,12 +15,6 @@ A little collection of Valorant crosshairs.
 
 ![Standard Cross](https://user-images.githubusercontent.com/63851714/226617686-67a54863-09b1-432e-9e67-57b3824b6116.png)
 
-## Plus Standard
-
-```0;P;h;0;f;0;0l;4;0o;0;0a;1;0f;0;1t;0;1l;0;1a;0.339```
-
-![Plus Standard Cross](https://user-images.githubusercontent.com/63851714/226614524-7e64a16f-a762-4bcc-9f63-4b91b92d072b.png)
-
 ## Moving - 1
 
 ```0;P;h;0;0v;4;0g;1;0o;0;0e;0.1;1b;0```
