@@ -9,13 +9,13 @@ A little collection of Valorant crosshairs.
 4. [Square](https://github.com/hAxiiT/Valorant_Crosshairs/tree/main#squares)
 
 # Cross
-## Plus Standard - 1
+## Plus, Cryo - 1
 
 ```0;P;h;0;f;0;0l;4;0o;0;0a;1;0f;0;1b;0```
 
 ![Standard Cross](https://user-images.githubusercontent.com/63851714/226617686-67a54863-09b1-432e-9e67-57b3824b6116.png)
 
-## Plus Standard - 2
+## Plus Standard
 
 ```0;P;h;0;f;0;0l;4;0o;0;0a;1;0f;0;1t;0;1l;0;1a;0.339```
 
@@ -48,6 +48,8 @@ A little collection of Valorant crosshairs.
 ## TenZ
 
 ```0;s;1;P;c;5;h;0;m;1;0l;4;0o;2;0a;1;0f;0;1b;0;S;c;4;o;1```
+
+```0;s;1;P;c;5;h;0;0l;4;0o;2;0a;1;0f;0;1b;0;S;c;5```
 
 ![TenZ](https://user-images.githubusercontent.com/63851714/226617768-d24fa7b6-1197-4414-a2b3-21b4ed9632ad.png)
 
