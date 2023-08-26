@@ -83,7 +83,7 @@ A little collection of Valorant crosshairs.
 
 ### Arrows
 
-```0;s;1;P;c;5;h;0;m;1;0l;4;0o;2;0a;1;0f;0;1b;0;S;c;4;o;1```
+```0;P;h;0;f;0;0t;1;0l;4;0o;1;0a;1;0f;0;1t;3;1o;2;1a;1;1m;0;1f;0```
 
 ![Arrows](https://user-images.githubusercontent.com/63851714/232525727-33444776-1ec2-44f8-a302-975484b13eb9.png)
 
