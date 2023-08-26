@@ -2,7 +2,7 @@
 
 A little collection of Valorant crosshairs.
 
-## Updated: 17.04.2023
+## Updated: 26.08.2023
 1. [Cross](https://github.com/hAxiiT/Valorant_Crosshairs/tree/main#cross)
 2. [Dots](https://github.com/hAxiiT/Valorant_Crosshairs/tree/main#dots)
 3. [Circle](https://github.com/hAxiiT/Valorant_Crosshairs/tree/main#circles)
