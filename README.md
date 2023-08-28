@@ -87,6 +87,12 @@ A little collection of Valorant crosshairs.
 
 ![Arrows](https://user-images.githubusercontent.com/63851714/232525727-33444776-1ec2-44f8-a302-975484b13eb9.png)
 
+### Gina
+
+```0;P;c;5;o;0.189;f;0;0l;3;0v;3;0o;0;0a;1;0f;0;1b;0```
+
+![Download](https://github.com/hAxiiT/Valorant_Crosshairs/assets/63851714/5e49ae39-8c60-491b-95e7-343fb5c773c9)
+
 # Dots
 ## Mini Dot
 
